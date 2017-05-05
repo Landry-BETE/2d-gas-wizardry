@@ -45,7 +45,7 @@ def elastic_collision(particle, particle2):
 def draw_environment(particles):
     """the drawing of the frame"""
     momentum_gas = momentum(particles)
-    # print("U: {} | P: {} | P_wall: {}".format(energy(particles), momentum_gas, momentum_ini - momentum_gas))
+    print("U: {} | P: {} | P_wall: {}".format(energy(particles), momentum_gas, momentum_ini - momentum_gas))
 
     game_display.fill(WHITE)
     for particle_pair in combinations(particles, 2):
