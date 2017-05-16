@@ -78,6 +78,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* [Harrion Kinsley](https://github.com/Sentdex)(Sentdex), who makes really great Python tutorials!
+* [Harrison Kinsley](https://github.com/Sentdex)(Sentdex), who makes really great Python tutorials!
 * Stubbornness, when I face weird bugs(apparent energy loss during the development)
 * Someone else I probably forgot
